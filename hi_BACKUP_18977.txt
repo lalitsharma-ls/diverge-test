@@ -1,0 +1,6 @@
+hi
+<<<<<<< HEAD
+update from local
+=======
+hello from git web
+>>>>>>> 7ef038b6a5f9655dbd91b3cc9ad3b77cebd699c5
