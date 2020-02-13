@@ -1,5 +1,1 @@
-hi
-update from local
-=======
-hello from git web
-
+clone update
